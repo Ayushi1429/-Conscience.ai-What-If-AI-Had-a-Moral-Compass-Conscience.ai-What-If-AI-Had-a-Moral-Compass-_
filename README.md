@@ -39,23 +39,6 @@ With Conscience.ai, you:
 - Pyngrok (for demo sharing)  
 - Matplotlib (for radar chart)  
 
----
-
-## 🎥 Live Demo (Video Recording)
-
-📽️ [Click to watch the walkthrough video](#)  
-_(Link your LinkedIn video or YouTube once ready)_
-
----
-
-## 📸 Screenshots
-
-| AI vs Human Radar | Moral Persona Picker |
-|-------------------|----------------------|
-| ![screenshot1](assets/radar.png) | ![screenshot2](assets/dropdown.png) |
-
----
-
 ## 🧪 Example Output
 
 > *“I would delay executive bonuses and redirect funds to innovation. Layoffs should be the last resort. People aren't cost units — they're the soul of the company.”*  
